@@ -1,3 +1,3 @@
 # newRepository
 new Repository
-This is second revision
+/n This is second revision
