@@ -1,2 +1,2 @@
-# newRepository
-new Repository This is second revision
+# WanAndroidYqls
+玩安卓项目（Java版）
